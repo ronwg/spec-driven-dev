@@ -1,6 +1,6 @@
 # Spec-driven Development Prompts - Claude Code Command Collection
 
-A collection of specialized Claude Code commands inspired by the strong Spec-driven workflow created by Amazon. These commands help transform project ideas into comprehensive technical specifications and actionable implementation plans.
+A collection of specialized Claude Code commands inspired by the powerful Spec-driven workflow created by Amazon. These commands help transform project ideas into comprehensive technical specifications and actionable implementation plans.
 
 ## Commands Overview
 
@@ -29,7 +29,7 @@ This collection includes four sequential commands for complete project planning 
 ## Usage Workflow
 
 ### Step 1: Generate Requirements
-In Claude Code, start with a project idea or basic description:
+In Claude Code, start with a project/feature idea or basic description:
 
 ```bash
 > /requirements "Build a surfer travel tips website with AI-powered content generation"
