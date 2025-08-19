@@ -9,7 +9,7 @@ This collection includes four sequential commands for complete project planning 
 1. **`/requirements`** - Generate comprehensive BDD-style requirements from project descriptions
 2. **`/design`** - Create detailed technical design documents from requirements  
 3. **`/tasks`** - Transform design documents into actionable implementation plans
-4. **`execute-next`** - Implement the next uncompleted task from a tasks.md file
+4. **`/execute-next`** - Implement the next uncompleted task from a tasks.md file
 
 ## Installation
 
@@ -75,7 +75,7 @@ Transform the design into actionable tasks ordered by dependency:
 Implement the next uncompleted task from the generated tasks file:
 
 ```bash
-> execute-next @surfer-travel-tips-website/tasks.md
+> /execute-next @surfer-travel-tips-website/tasks.md
 ```
 
 **What it does:**
